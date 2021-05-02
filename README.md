@@ -5,7 +5,7 @@ This application written on WinForms with using LinqToSQL technology. DataBase i
 It's contains Window with registration employees with their skills.
 
 The task:
-Написать приложение, которое позволяет вести учет сотрудников и навыков, которыми они владеют, в IT-компании.
-Одним из атрибутов сотрудника должна быть «должность», в зависимости от должности могут быть разные навыки. Например, если должность программист, то в навыках может быть C++, C#, Java; если должность дизайнер, то в навыках xaml, css и т.п.
-Реализовать пользовательский интерфейс на базе библиотеки WinForms. Работа с БД через LINQ2SQL.
-Мы ведем основную разработку на Framework 4.5, связь с базой у нас написана на linqtosql с использованием конструктора объектов.
+Develop application for registration employees and their skills in IT-company.
+One of employee attributes must be "position", skills depends of position.
+Take the WinForms for user interface. Work with DB throw LINQtoSQL.
+Our company work with Framework 4.5, for DB connection we use LinqToSql with object constructor.
